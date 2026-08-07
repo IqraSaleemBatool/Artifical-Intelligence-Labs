@@ -1,42 +1,25 @@
-# Lab 7: PCA & MLP Ransomware Classification
+# AI Lab Notebooks
 
-This project classifies ransomware using PCA (Principal Component Analysis) and MLP (Multi-Layer Perceptron) classifiers on a dataset of API call frequencies and string features from PE files.
+## 📚 About This Repository
+This repository contains a collection of Jupyter notebooks from my **Artificial Intelligence** laboratory work. Each notebook demonstrates practical applications of AI/ML techniques to real-world problems.
 
-## Dataset
+## 📁 Repository Structure
+```
+AI-Lab/
+├── Malware Detection with Random Forest.ipynb
+└── PCA 7 MLP based Ransomeware classificar=tion
+```
 
-- **Source:** Ransomware Dataset 2016
-- **Records:** 1,524
-- **Features:** 30,969 (API calls and string features)
-- **Targets:** Binary classification (Goodware/Malware) and multi-class classification (11 ransomware families)
-- **Link:** [rissgrouphub/ransomwaredataset2016](https://github.com/rissgrouphub/ransomwaredataset2016)
+## 🛠️ Technologies Used
+- Python 3
+- Jupyter Notebook
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, mlxtend
 
-## Technologies
+## 🚀 How to Use
+1. Clone this repository
+2. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn mlxtend`
+3. Open any notebook: `jupyter notebook <filename>`
+4. Run cells sequentially
 
-- Python
-- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-## Steps
-
-1. **Data Preprocessing:** Cleaned data, handled null values, removed constant columns.
-2. **Feature Reduction:** Applied PCA to reduce 23,616 features to 100 principal components.
-3. **Modeling:** Trained MLP classifiers on:
-   - Binary classification (with/without PCA)
-   - Multi-class classification (with/without PCA)
-4. **Evaluation:** Compared models using accuracy, precision, recall, F1-score, and confusion matrices.
-
-## Key Results
-
-- **Binary Classification:** MLP with PCA achieved **98.03% accuracy** vs **96.72%** without PCA.
-- **Multi-class Classification:** Models showed high overall accuracy (~96%) but struggled with rare ransomware families.
-- **Insights:** PCA improved performance, reduced training time, and enabled effective data visualization.
-
-## How to Run
-
-1. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-2. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook "PCA & MLP-based Ransomware Classification (1).ipynb"
-   ```
+## 📖 Note
+Each notebook is self-contained and includes comments explaining the implementation steps.
