@@ -6,8 +6,9 @@ This repository contains a collection of Jupyter notebooks from my **Artificial 
 ##  Repository Structure
 ```
 AI-Lab/
-├── Malware Detection with Random Forest.ipynb
-└── PCA 7 MLP based Ransomeware classificar=tion
+|__ Malware Detection with Random Forest.ipynb
+|__ PCA 7 MLP based Ransomeware classificar=tion
+|__Autoencoder based Anomaly Detedtion
 ```
 
 ##  Technologies Used
