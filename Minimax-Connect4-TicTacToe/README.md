@@ -20,8 +20,8 @@ Built as part of an *Introduction to AI* course.
 - **Tree visualization** — Graphviz export of explored nodes
 
 ##  Project Structure
-.
-├──  tictactoe_minimax.ipynb
+
+ ├──  tictactoe_minimax.ipynb
 
 ├──  connect4_minimax.ipynb
 
