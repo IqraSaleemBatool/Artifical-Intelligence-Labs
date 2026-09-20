@@ -22,7 +22,9 @@ Built as part of an *Introduction to AI* course.
 ##  Project Structure
 .
 ├──  tictactoe_minimax.ipynb
+
 ├──  connect4_minimax.ipynb
+
 └──  Minimax_Presentation.pptx
 
 
