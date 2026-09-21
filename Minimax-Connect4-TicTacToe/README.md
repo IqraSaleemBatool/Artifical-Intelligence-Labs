@@ -25,6 +25,6 @@ Built as part of an *Introduction to AI* course.
  
 ├──  connect4_minimax.ipynb
 
-└──  Minimax_Presentation.pptx
+└──  TicTacToe_Minimax_ConnectFour.pptx
 
 
