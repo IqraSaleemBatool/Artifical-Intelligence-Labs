@@ -9,6 +9,9 @@ AI-Lab/
 |__ Malware Detection with Random Forest.ipynb
 |__ PCA 7 MLP based Ransomeware classificar=tion
 |__ Autoencoder based Anomaly Detection
+|__ Reinforcement-Learning-Labs
+|__ Minimax-Connected4-TicTacToe
+
 ```
 
 ##  Technologies Used
