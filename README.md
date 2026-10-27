@@ -16,7 +16,7 @@ AI-Lab/
 
 ##  Technologies Used
 - Python 3
-- Jupyter Notebook
+- Colab Notebook
 - Libraries: Pandas, numpy, scikit-learn, matplotlib, seaborn, mlxtend
 
 ##  How to Use
