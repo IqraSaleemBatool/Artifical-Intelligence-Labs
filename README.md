@@ -17,12 +17,12 @@ AI-Lab/
 ##  Technologies Used
 - Python 3
 - Jupyter Notebook
-- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, mlxtend
+- Libraries: Pandas, numpy, scikit-learn, matplotlib, seaborn, mlxtend
 
 ##  How to Use
 1. Clone this repository
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn mlxtend`
-3. Open any notebook: `jupyter notebook <filename>`
+3. Open any notebook: `colab notebook <labname>`
 4. Run cells sequentially
 
 ##  Note
