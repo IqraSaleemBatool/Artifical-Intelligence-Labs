@@ -2,7 +2,7 @@
 # Autoencoder-Based Anomaly Detection
 
 ##  Overview
-This Jupyter notebook implements an **autoencoder-based anomaly detection** system using deep learning. The model is trained on normal data patterns and identifies anomalies based on reconstruction error.
+This Jupyter notebook implements an **autoencoder-based anomaly detection** system using deep learning. The model is trained on normal data patterns and identifies anomalies Based on reconstruction error.
 
 ##  Objective
 Detect anomalous patterns in network traffic/embedded system data using an **autoencoder neural network** trained exclusively on normal samples.
@@ -30,7 +30,7 @@ Decoder: Bottleneck → 64 → 128 → 256 → Output
 - **Anomaly Detection**: Samples with high reconstruction error are flagged as anomalies
 - **Regularization**: Dropout & BatchNorm to prevent overfitting
 - **Early Stopping**: Prevents overtraining
-- **Optional**: PCA dimensionality reduction
+- **Optional**: PCA Dimensionality Reduction
 
 ##  Results
 
