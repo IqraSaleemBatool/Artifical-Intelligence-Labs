@@ -37,7 +37,7 @@ This project classifies ransomware using PCA (Principal Component Analysis) and 
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-2. Run the Jupyter Notebook:
+2. Run the Coalb Notebook:
    ```bash
-   jupyter notebook "PCA & MLP-based Ransomware Classification (1).ipynb"
+   colab notebook "PCA & MLP-based Ransomware Classification (1).ipynb"
    ```
