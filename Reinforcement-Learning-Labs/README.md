@@ -1,7 +1,7 @@
 
 # Reinforcement Learning Labs
 
-A hands-on introduction to Reinforcement Learning, progressing from
+A hands-on introduction to Reinforcement Learning, Progressing from
 **tabular Q-Learning** to **Deep RL with PPO**.
 
 ##  Contents
@@ -16,7 +16,7 @@ A hands-on introduction to Reinforcement Learning, progressing from
 - Understand the **agent–environment loop**
 - Implement the **Bellman update** by hand
 - Balance **exploration vs. exploitation** (ε-greedy)
-- Train a **neural-network policy** with Stable-Baselines3
+- Train a **neural-network policy** With Stable-Baselines3
 - Evaluate and visualize trained agents
 
 ##  Requirements
