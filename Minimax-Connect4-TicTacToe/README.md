@@ -15,8 +15,8 @@ Built as part of an *Introduction to AI* course.
 ##  Concepts Covered
 
 - **Minimax** — MAX (AI) vs MIN (human), full game-tree search
-- **Heuristic evaluation** — window scoring for non-terminal states
-- **Alpha-Beta pruning** — pruning branches where α ≥ β
+- **Heuristic evaluation** — Window scoring for non-terminal states
+- **Alpha-Beta pruning** — Pruning branches where α ≥ β
 - **Tree Visualization** — Graphviz export of explored nodes
 
 ##  Project Structure
