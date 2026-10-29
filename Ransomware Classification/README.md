@@ -1,7 +1,7 @@
 
 # Lab 7: PCA & MLP Ransomware Classification
 
-This project classifies ransomware using PCA (Principal Component Analysis) and MLP (Multi-Layer Perceptron) classifiers on a dataset of API call frequencies and string features from PE files.
+This project classifies ransomware using PCA (Principal Component Analysis) and MLP (Multi-Layer Perceptron) classifiers on a dataset of API call frequencies and string features From PE files.
 
 ## Dataset
 
@@ -28,7 +28,7 @@ This project classifies ransomware using PCA (Principal Component Analysis) and 
 ## Key Results
 
 - **Binary Classification:** MLP with PCA achieved **98.03% accuracy** vs **96.72%** without PCA.
-- **Multi-class Classification:** Models showed high overall accuracy (~96%) but struggled with rare ransomware families.
+- **Multi-class Classification:** Models Showed high overall accuracy (~96%) but struggled with rare ransomware families.
 - **Insights:** PCA improved performance, reduced training time, and enabled effective data visualization.
 
 ## How to Run
