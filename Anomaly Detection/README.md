@@ -9,9 +9,9 @@ Detect anomalous patterns in network traffic/embedded system data using an **aut
 
 ##  Dataset
 - **Embedded System Network Security Dataset**
-- Features: Network traffic metrics
+- Features: Network Traffic Metrics
 - Labels: Normal (0) vs Anomalous (1)
-- Training: Only normal samples (outcome = 0)
+- Training: Only Normal Samples (outcome = 0)
 
 ##  Model Architecture
 
